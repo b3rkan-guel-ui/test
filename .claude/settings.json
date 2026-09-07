@@ -5,9 +5,16 @@
         "source": "github",
         "repo": "anthropics/claude-code"
       }
+    },
+    "claude-plugins-official": {
+      "source": {
+        "source": "github",
+        "repo": "anthropics/claude-plugins-official"
+      }
     }
   },
   "enabledPlugins": {
-    "feature-dev@claude-code-plugins": true
+    "feature-dev@claude-code-plugins": true,
+    "claude-md-management@claude-plugins-official": true
   }
 }
