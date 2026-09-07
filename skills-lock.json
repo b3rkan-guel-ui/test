@@ -97,6 +97,12 @@
       "skillPath": "SKILL.md",
       "computedHash": "aef6a4923062c45a2ffca4776b047f5ab1e09d4334692d9da0f1c812a4648755"
     },
+    "playwright-cli": {
+      "source": "microsoft/playwright-cli",
+      "sourceType": "github",
+      "skillPath": "skills/playwright-cli/SKILL.md",
+      "computedHash": "19b6942c9cbcf9b9e3000fc497f8f156b8251d66055de806017e4aaa651e0c7b"
+    },
     "remotion-best-practices": {
       "source": "remotion-dev/skills",
       "sourceType": "github",
