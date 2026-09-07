@@ -19,6 +19,12 @@
       "skillPath": "skills/find-docs/SKILL.md",
       "computedHash": "93ec2d2786d7e83973252383875c4f345a2ee7cbbd08a1ab38e5201b214640ee"
     },
+    "notebooklm": {
+      "source": "teng-lin/notebooklm-py",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "aef6a4923062c45a2ffca4776b047f5ab1e09d4334692d9da0f1c812a4648755"
+    },
     "remotion-best-practices": {
       "source": "remotion-dev/skills",
       "sourceType": "github",
